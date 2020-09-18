@@ -13,7 +13,6 @@ func main() {
 	ms.f1 = 15.5
 	ms.str= "Chris"
 
-
 	fmt.Printf("The int is: %d\n", ms.i1)
 	fmt.Printf("The float is: %f\n", ms.f1)
 	fmt.Printf("The string is: %s\n", ms.str)
