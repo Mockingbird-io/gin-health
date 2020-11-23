@@ -1,4 +1,4 @@
-module project
+module gin-health
 
 go 1.13
 
