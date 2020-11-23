@@ -1,2 +1,4 @@
 #idea忽略
 /.idea
+vendor
+LICENSE
